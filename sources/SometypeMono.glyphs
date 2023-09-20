@@ -1,12 +1,12 @@
 {
-.appVersion = "3203";
+.appVersion = "3219";
 classes = (
 {
 code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Germandbls";
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Sometype Mono Project Authors (https://github.com/dharmatype/Sometype-Mono)";
+copyright = "Copyright 2018 The Sometype Mono Project Authors (https://github.com/googlefonts/sometype-mono)";
 customParameters = (
 {
 name = fsType;
@@ -78,7 +78,7 @@ name = note;
 value = "Add “Scale to UPM 2048” in Instance before Export for TTF, If necessary.";
 }
 );
-date = "2018-02-01 02:59:48 +0000";
+date = "2018-02-01 02:59:50 +0000";
 designer = "Ryoichi Tsunekawa";
 designerURL = "http://dharmatype.com/";
 familyName = "Sometype Mono";
